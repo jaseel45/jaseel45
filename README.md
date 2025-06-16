@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Development and improving my DSA skills**
 
-- 💬 Ask me about **C,C++**
+- 💬 Ask me about **C,C++,java,Python**
 
 - ⚡ Fun fact **"If I cannot do great things, I can do small things in a great way."**
 
