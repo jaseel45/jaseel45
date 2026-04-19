@@ -10,7 +10,7 @@
 - ⚡ Fun fact **"If I cannot do great things, I can do small things in a great way."**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   </a>
